@@ -1,0 +1,51 @@
+.white-box{
+	background-color: white;
+	margin: 150px auto;
+	padding: 10px;
+	max-width:480px;
+	height: 380px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.close-btn{
+	color: #808080;
+	text-align: right;
+	font-size:18px;
+	margin: 0;
+	cursor: pointer;
+	float: right;
+}
+.large-text{
+	color: #4B0532;
+	font-size: 26px;
+	margin-top: 30px;
+	margin-bottom: -8px;
+	clear: right;
+}
+.brand-image{
+	margin-top: 10px;
+	width: 30%;
+}
+#united{
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+}
+.offer-text{
+	width:30%;
+	display: inline-block;
+	margin-top: 5px;
+	margin-bottom: 25px; 
+}
+.book-now-btn{
+	background-color:#4B0532;
+	color: white;
+	text-decoration: none;
+	padding: 12px 40px;
+	
+}
+.guarantee{
+	color:#808080;
+	font-size: 16px;
+	margin-top: 25px;
+}
